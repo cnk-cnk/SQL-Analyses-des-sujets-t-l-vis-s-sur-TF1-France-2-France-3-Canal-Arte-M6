@@ -16,9 +16,9 @@
  4) Thématiques télévisés pour toutes les chaînes et année confondues;
  5) Thématiques télévisés pour chaque chaîne et toutes les année confondues;
  6) Pour chaque thematique, quelle est la chaîne qui fait le plus de diffusion;
- 7) Regardons la tendance des sujets télévisés d'année en année pour  toutes les chaînes et thématiques confondues;
- 8) Regardons la variation des sujets télévisés d'année en année pour toutes les chaînes et thématiques confondues;
- 9) Regardons le cummulative des sujets télévisés d'année en année pour chaque chaîne et toutes les thématiques confondues;
+ 7) La tendance des sujets télévisés d'année en année pour  toutes les chaînes et thématiques confondues;
+ 8) La variation des sujets télévisés d'année en année pour toutes les chaînes et thématiques confondues;
+ 9) Le cummulative des sujets télévisés d'année en année pour chaque chaîne et toutes les thématiques confondues;
  10) Regardons la variation des sujets télévisés d'année en année pour chaque chaîne et toutes les thématiques confondues.
  
 ### Sources de la BDD :
