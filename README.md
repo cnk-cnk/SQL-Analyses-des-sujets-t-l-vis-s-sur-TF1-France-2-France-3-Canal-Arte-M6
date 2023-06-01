@@ -1,4 +1,4 @@
-# Le travail se décompose en deux parties:
+# L'analyse des données se décompose en deux parties:
 
 ## A)  La préparation des données pour les requêtes d'analyses:
 
@@ -8,7 +8,7 @@
  4) Vérifier les doublons;
  5) Vérifier les valeurs nulles.
 
-## B) Cette partie est dédiée aux requêtes d'analyses :
+## B) Requêtes d'analyses :
 
  1) Global journaux télévisés pour chaque chaîne et toutes les thématiques confondues;
  2) Pourcentage des journaux télévisés pour chaque chaîne et toutes les thématiques et années confondues;
