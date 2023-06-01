@@ -1,6 +1,6 @@
-# L'analyse des données se décompose en deux parties:
+# L'analyse des données se décompose en deux parties :
 
-## A)  La préparation des données pour les requêtes d'analyses:
+## A)  La préparation des données pour les requêtes d'analyses :
 
  1) Récupérer les données du site data.gouv.fr, importer les données dans Microsoft SQL SERVER
  2) Afficher notre table
